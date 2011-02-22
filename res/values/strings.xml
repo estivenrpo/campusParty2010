@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hola Campuseros</string>
+    <string name="app_name">campusParty2010</string>
+    <string name="b1">Ejecutar Intent</string>
+</resources>
