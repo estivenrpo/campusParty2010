@@ -1,0 +1,6 @@
+= campusParty2010
+
+Sample project about Android Intents.
+
+https://www.youtube.com/watch?v=xxws9OsGEbk
+
